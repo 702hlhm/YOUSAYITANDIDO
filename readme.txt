@@ -1,0 +1,1 @@
+This is the project of the app what the 702 group want to develop.
